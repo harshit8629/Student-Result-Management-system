@@ -1,4 +1,4 @@
-# Student Management System 
+# Student Result Management System 
 
 A dynamic and responsive Student Management System built using Python Flask, HTML, CSS, and JavaScript to efficiently manage student records through a web-based interface.
 
